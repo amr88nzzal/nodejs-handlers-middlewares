@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-handlers-middlewares",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amr88nzzal/nodejs-handlers-middlewares.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amr88nzzal/nodejs-handlers-middlewares/issues"
+  },
+  "homepage": "https://github.com/amr88nzzal/nodejs-handlers-middlewares#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
